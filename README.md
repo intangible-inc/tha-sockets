@@ -11,7 +11,7 @@ This monorepo contains a minimal setup for a real-time collaboration take-home a
 
 ## Assignment
 
-Implement a real-time server that allows two users to connect to a project and add/remove components (an object e.x.: `{ id: 1, message: 'hello'}`) to shared in-memory data. All data should be stored in memory only. When one user adds/removes a component, the other user sees the update in real time.
+Implement a real-time server that allows two users to connect to a project and add/remove components (an object e.g.: `{ id: 1, message: 'hello'}`) to shared in-memory data. All data should be stored in memory only. When one user adds/removes a component, the other user sees the update in real time.
 
 - The web app should allow connecting/disconnecting to the socket server, and adding/removing components.
 - The web app should allow to display all current components and allow users to select and delete one or multiple.
