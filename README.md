@@ -1,6 +1,8 @@
 # Real-Time Collaboration Take-Home Assessment Starter
 
-This monorepo contains a minimal setup for a real-time collaboration take-home assignment. Please clone this repository into your own Github account.
+This monorepo contains a minimal setup for a real-time collaboration take-home assignment. Click below to clone this repository into your own Github account.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/intangible-inc/tha-sockets&project-name=tha-sockets&repository-name=tha-sockets)
 
 ## Apps
 
@@ -37,6 +39,3 @@ pnpm run dev
 ---
 
 Good luck!
-
-## Clone
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/intangible-inc/tha-sockets&project-name=tha-sockets&repository-name=tha-sockets)
